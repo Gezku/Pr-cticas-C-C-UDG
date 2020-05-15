@@ -26,3 +26,21 @@
 * Arrays
 * Modularity / Functions
 * Parameters
+
+## Data structures
+
+### Things I learned studying about data structures:
+
+* Structs in C
+* Sort algorithms in C
+  * Bubble sort
+  * Selection sort
+  * Sort insertion
+  * Quicksort
+* Search algorithms in C 
+  * Binary search 
+  * Lineal search
+* Linear data structures
+  * Linked lists
+  * Stacks
+  * Queues
